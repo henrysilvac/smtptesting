@@ -1,0 +1,9 @@
+2025-06-19 19:54:16 - ❌ Error: [Errno -2] Name or service not known | host=mail.sabanawindows.com , port=465, user=contactform@sabanawindows.com, security=ssl
+2025-06-19 19:56:50 - ❌ Error: [Errno -2] Name or service not known | host=mail.ilmaistro.com , port=587, user=pruebas@ilmaistro.com, security=starttls
+2025-06-19 19:57:20 - ❌ Error: [Errno -2] Name or service not known | host=mail.ilmaistro.com , port=587, user=pruebas@ilmaistro.com, security=ssl
+2025-06-19 19:57:36 - ❌ Error: [Errno -2] Name or service not known | host=mail.ilmaistro.com , port=587, user=pruebas@ilmaistro.com, security=ssl
+2025-06-19 19:57:42 - ❌ Error: [Errno -2] Name or service not known | host=mail.ilmaistro.com , port=587, user=pruebas@ilmaistro.com, security=ssl
+2025-06-19 19:57:51 - ❌ Error: [Errno -2] Name or service not known | host=mail.ilmaistro.com , port=587, user=pruebas@ilmaistro.com, security=ssl
+2025-06-19 20:00:05 - ❌ Error: [Errno -2] Name or service not known | host=mail.ilmaistro.com , port=587, user=pruebas@ilmaistro.com, security=ssl
+2025-06-19 20:00:35 - ❌ Error: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1016) | host=mail.ilmaistro.com, port=587, user=pruebas@ilmaistro.com, security=ssl
+2025-06-19 20:00:46 - ✅ Conexión exitosa a mail.ilmaistro.com:587 como pruebas@ilmaistro.com | host=mail.ilmaistro.com, port=587, user=pruebas@ilmaistro.com, security=starttls
